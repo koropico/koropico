@@ -1,0 +1,4 @@
+-  Hi, I’m @koropico and u can call me Raúl if u want
+-  I’m interested in develop web pages
+-  I’m currently learning JavaScritp and in the future i want to learn phyton
+- 📫 How to reach me rmartinatencia@gmail.com 📫
